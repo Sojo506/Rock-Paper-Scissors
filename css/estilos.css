@@ -1,5 +1,17 @@
 body {
-    color: slateblue;
-    text-align: center;
+    color: steelblue;
+    text-align: right;
     font-family: 'Courier New', Courier, monospace;
+}
+
+#container {
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    margin: 0 auto;
+    border: 1px solid #DDD;
+}
+
+#container h1 {
+    font-size: 24px;
 }
