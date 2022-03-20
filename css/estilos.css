@@ -30,3 +30,7 @@ body {
 #container h1 {
     font-size: 24px;
 }
+
+#post {
+    padding: 1em;
+}
