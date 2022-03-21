@@ -1,6 +1,6 @@
 import random
 
-
+print("Hola")
 print()
 print("\t===========================")
 print("\t.:Piedra, Papel o Tijera:.")
